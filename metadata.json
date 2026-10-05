@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Video Downloader",
+  "description": "Download permitted public videos from supported platforms using Nexus Video Downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
